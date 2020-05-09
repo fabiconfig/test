@@ -146,7 +146,7 @@ CubeCore Note Should bypass for longer than 1 hour now.
 CubeCore Note use cubecraft77 settings.
 CubeFastLadder MovementDistance 2.95
 CubeFastLadder CheckerClimb 3
-CubeFastLadder FromLadder 0.28
+CubeFastLadder FromLadder 0.27
 CubeFastLadder TickRate 2
 CubeFastLadder Timer 0.75
 CubeFastLadder Reset false
