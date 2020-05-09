@@ -161,7 +161,7 @@ CubeFloat Mode Fast
 CubeFloat MovementDistance 2.98
 CubeFloat AdditionalDistance 0.25
 CubeFloat MovementTimer 1.15
-CubeFloat AdditionalTimer 0.94
+CubeFloat AdditionalTimer 0.96
 CubeFloat AltitudeVariation 0.53
 CubeFloat WaitTicks 12
 CubeFloat ClipDistance 1
