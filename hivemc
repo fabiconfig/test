@@ -86,7 +86,7 @@ AutoSoup OpenInv true
 AutoSoup SimulateInventory true
 AutoWeapon SpoofItem true
 AutoWeapon SpoofTicks 10
-BetterCriticals Mode NCPPacket
+BetterCriticals Mode AACLowJump
 BetterCriticals PacketAirCrits false
 BetterCriticals PacketLessPackets false
 BetterCriticals NoGroundPhase false
@@ -317,12 +317,12 @@ NoPitchLimit ServerSide true
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
 NoRotateSet NoZero true
-NoSlow BlockForwardMultiplier 0.5
-NoSlow BlockStrafeMultiplier 0.5
-NoSlow ConsumeForwardMultiplier 0.2
-NoSlow ConsumeStrafeMultiplier 0.2
-NoSlow BowForwardMultiplier 0.5
-NoSlow BowStrafeMultiplier 0.5
+NoSlow BlockForwardMultiplier 0.78
+NoSlow BlockStrafeMultiplier 0.78
+NoSlow ConsumeForwardMultiplier 0.78
+NoSlow ConsumeStrafeMultiplier 0.78
+NoSlow BowForwardMultiplier 0.78
+NoSlow BowStrafeMultiplier 0.78
 NoSlow Packet false
 NoSlow Soulsand false
 NoSlowBreak Air true
@@ -468,7 +468,45 @@ Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
 
+#ToggleOn
+InventoryMove toggle true
+Velocity toggle true
+AutoRespawn toggle true
+NoRotateSet toggle true
+WaterSpeed toggle true
+AntiCactus toggle true
+AutoArmor toggle true
+NoWeb toggle true
+Step toggle true
+AntiBlind toggle true
+NoSlow toggle true
+Sprint toggle true
+CubeNoFall toggle true
+BufferSpeed toggle true
+AntiBot toggle true
+FastUse toggle true
+ChestAura toggle true
+BetterCriticals toggle true
+NoFall toggle true
+
+#ToggleOff
+FastBreak toggle false
+FastPlace toggle false
+Regen toggle false
+Reach toggle false
+Strafe toggle false
+HitBox toggle false
+FastBow toggle false
+SuperKnockback toggle false
+WallClimb toggle false
+AutoBow toggle false
+Timer toggle false
+CivBreak toggle false
+AbortBreaking toggle false
+SlimeJump toggle false
+
 chat &r
 chat &r&4made by fabi#8042 (discord) &3Updated: 9.5.2020
 chat &rUse TPHit Script & CubeCore (for Water NoFall)
+chat &r&4 LAAC NoFall is working only for like 10 Blocks!!!
 chat &r
