@@ -159,7 +159,7 @@ Clip Horizontal 0.0
 Clip Vertical 5.0
 ConsoleSpammer Mode Payload
 ConsoleSpammer Delay 0
-Criticals Mode HypixelPacket
+Criticals Mode Jump
 Criticals Delay 66
 Criticals HurtTime 10
 CubeNoFall FallDistance 4
@@ -504,7 +504,7 @@ AbortBreaking toggle false
 SlimeJump toggle false
 NoFall toggle false
 BugUp toggle false
-
+Criticals toggle false
 
 chat &r
 chat &r&4made by fabi#8042 (discord) &3Updated: 10.5.2020
