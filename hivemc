@@ -503,6 +503,8 @@ CivBreak toggle false
 AbortBreaking toggle false
 SlimeJump toggle false
 NoFall toggle false
+BugUp toggle false
+
 
 chat &r
 chat &r&4made by fabi#8042 (discord) &3Updated: 10.5.2020
