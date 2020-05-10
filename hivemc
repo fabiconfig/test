@@ -403,8 +403,8 @@ Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
-Step Mode LAAC
-Step Height 2.0
+Step Mode AAC
+Step Height 1.0
 Step JumpHeight 0.42
 Step Delay 120
 SuperKnockback HurtTime 10
@@ -487,7 +487,6 @@ AntiBot toggle true
 FastUse toggle true
 ChestAura toggle true
 BetterCriticals toggle true
-NoFall toggle true
 
 #ToggleOff
 FastBreak toggle false
@@ -504,9 +503,9 @@ Timer toggle false
 CivBreak toggle false
 AbortBreaking toggle false
 SlimeJump toggle false
+NoFall toggle false
 
 chat &r
 chat &r&4made by fabi#8042 (discord) &3Updated: 9.5.2020
 chat &rUse TPHit Script & CubeCore (for Water NoFall)
-chat &r&4 LAAC NoFall is working only for like 10 Blocks!!!
 chat &r
