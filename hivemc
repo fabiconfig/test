@@ -403,8 +403,8 @@ Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
-Step Mode AAC
-Step Height 1.0
+Step Mode LAAC
+Step Height 2.0
 Step JumpHeight 0.42
 Step Delay 120
 SuperKnockback HurtTime 10
