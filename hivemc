@@ -40,7 +40,7 @@ Aimbot Jitter false
 AntiBot Tab true
 AntiBot TabMode Equals
 AntiBot EntityID true
-AntiBot Color true
+AntiBot Color false
 AntiBot LivingTime false
 AntiBot LivingTimeTicks 122
 AntiBot Ground false
