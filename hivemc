@@ -486,7 +486,6 @@ BufferSpeed toggle true
 AntiBot toggle true
 FastUse toggle true
 ChestAura toggle true
-BetterCriticals toggle true
 
 #ToggleOff
 FastBreak toggle false
