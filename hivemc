@@ -176,7 +176,7 @@ Derp Spinny false
 Derp Increment 1.0
 FastBow Packets 20
 FastBreak BreakDamage 0.56
-FastClimb Mode Vanilla
+FastClimb Mode AAC3.0.5
 FastClimb Speed 0.28
 FastPlace Speed 2
 FastStairs Mode Step
@@ -455,7 +455,7 @@ Trigger MaxCPS 16
 Trigger MinCPS 14
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
-Velocity Mode AACPush
+Velocity Mode AAC
 Velocity ReverseStrength 0.12
 Velocity SmoothReverseStrength 0.05
 Velocity AACPushXZReducer 3.0
@@ -507,6 +507,6 @@ BugUp toggle false
 Criticals toggle false
 
 chat &r
-chat &r&4made by fabi#8042 (discord) &3Updated: 10.5.2020
+chat &r&4made by fabi#8042 (discord) &3Updated: 12.5.2020
 chat &rUse TPHit Script & CubeCore (for Water NoFall)
 chat &r
