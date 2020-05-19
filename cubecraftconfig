@@ -156,7 +156,7 @@ CubeFastUse ConstantPackets 2
 CubeFastUse PacketsAtOnce 24
 CubeFastUse Reset false
 CubeFloat Mode stable
-CubeFloat MovementDistance 2.45
+CubeFloat MovementDistance 2.37
 CubeFloat AdditionalDistance 0.25
 CubeFloat MovementTimer 0.31
 CubeFloat AdditionalTimer 0.31
