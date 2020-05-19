@@ -120,52 +120,47 @@ Criticals Mode NoGround
 Criticals Delay 0
 Criticals HurtTime 10
 CubeAutoBlock §4§lSettings: 
-CubeAutoBlock  Check Teams, Check Walls, Server-Side, Client-Side
+CubeAutoBlock  Check Teams, Check Walls,Interact, Server-Side, Client-Side
 CubeAutoBlock BlockRange 6.25
 CubeAutoBlock AnimationHeight 4
 CubeAutoBlock AnimationLength 10
 CubeAutoBlock AnimationVariation -0.25
 CubeAutoBlock Reset false
 CubeClipper §4§lSettings 
-CubeClipper  Clip Down, Indicate
-CubeClipper Delay 20
+CubeClipper Indicate
 CubeClipper MaxUpDistance 5
 CubeClipper MaxDownDistance 10
 CubeClipper Reset false
 CubeCombat §4§lSettings: 
 CubeCombat  Super Knockback, Target Info, Criticals
 CubeCombat CriticalsDelay 350
+CubeCombat CriticalsOffset 0.06
 CubeCombat TargetScale 1.0
 CubeCombat TargetX 100
 CubeCombat TargetY 100
 CubeCombat Reset false
-CubeCore LatestVersion 8.24
+CubeCore LatestVersion 8.312
 CubeCore Status BYPASSING
-CubeCore Updated 20.3.2020
-CubeCore Note Should bypass for longer than 1 hour now.
-CubeCore Note use cubecraft77 settings.
+CubeCore Updated 17.5.2020
 CubeFastLadder MovementDistance 2.95
 CubeFastLadder CheckerClimb 3
 CubeFastLadder FromLadder 0.27
 CubeFastLadder TickRate 2
 CubeFastLadder Timer 0.75
+CubeFastLadder StepAgainDelay 500
 CubeFastLadder Reset false
 CubeFastUse Mode AtOnce
 CubeFastUse Timer 0.65
 CubeFastUse WaitTicks 9
 CubeFastUse ConstantPackets 2
 CubeFastUse PacketsAtOnce 24
-
 CubeFastUse Reset false
-CubeFloat Mode Fast
-CubeFloat MovementDistance 2.98
+CubeFloat Mode stable
+CubeFloat MovementDistance 2.45
 CubeFloat AdditionalDistance 0.25
-CubeFloat MovementTimer 1.15
-CubeFloat AdditionalTimer 0.96
-CubeFloat AltitudeVariation 0.53
-CubeFloat WaitTicks 12
-CubeFloat ClipDistance 1
-CubeFloat LandingSpeed 0.7
+CubeFloat MovementTimer 0.31
+CubeFloat AdditionalTimer 0.31
+CubeFloat WaitTicks 7
 CubeFloat AutoDisableDistance 0
 CubeFloat Reset false
 CubeInsults §2§lKillInsults Settings: 
@@ -184,10 +179,10 @@ CubeNoFall Spoof false
 CubeNoFall Reset false
 CubePlay DownloadConfig false
 CubePlay §4§lSettings: 
-CubePlay  Play Again, Config Manager, Auto Config, Auto Bind, Auto Team, Air Step
+CubePlay  Play Again, Config Manager, Auto Bind, Auto Team, Air Step
 CubePlay §2§lAuto Join Settings: 
 CubePlay §aAuto Join Play Solo SkyWars, Kick Only
-CubePlay RetryInterval 30
+CubePlay WaitTicks 35
 CubePlay Reset false
 CubeSpeed MovementDistance 2.44
 CubeSpeed AdditionalDistance 0.21
@@ -201,6 +196,16 @@ CubeSpeed DescendingTimer 0.8
 CubeSpeed Reset false
 CubeStaffDetector Delay 45
 CubeStaffDetector Reset false
+CubeStealer §4§lSettings: 
+CubeStealer  Auto Open, Steal Items, Ignore Trash, Auto Close, Check Title
+CubeStealer Range 4.5
+CubeStealer WallsRange 2.75
+CubeStealer OpenDelay 400
+CubeStealer CloseDelay 100
+CubeStealer StartDelay 0
+CubeStealer TakeDelay 25
+CubeStealer Binding NONE
+CubeStealer Reset false
 Damage Mode NCP
 Damage Damage 1
 Derp Headless false
@@ -494,7 +499,7 @@ CubeClipper toggle true
 CubeCombat toggle true
 CubeFastLadder toggle true
 CubeFastUse toggle true
-CubeInsults toggle true
+CubeInsults toggle false
 CubeNoFall toggle true
 CubePlay toggle true
 Aimbot toggle false
@@ -529,5 +534,6 @@ Regen toggle false
 
 chat &r
 chat &r&4made by fabi#8042 (discord)
-chat &r&3Updated on 9.5.2020
+chat &r&3Updated on 19.5.2020
+chat &r&3Supporting: CubeCore &48.312
 chat &r
