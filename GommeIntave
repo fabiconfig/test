@@ -344,8 +344,8 @@ HighJump Height 1.8
 HighJump Mode Vanilla
 HighJump OnlyGlassPane false
 HighJump toggle false
-HitBox Size 0.19
-HitBox toggle trueda
+HitBox Size 0.1
+HitBox toggle true
 IceSpeed Mode NCP
 IceSpeed toggle false
 Ignite Lighter true
