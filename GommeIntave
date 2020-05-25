@@ -345,7 +345,7 @@ HighJump Mode Vanilla
 HighJump OnlyGlassPane false
 HighJump toggle false
 HitBox Size 0.1
-HitBox toggle true
+HitBox toggle false
 IceSpeed Mode NCP
 IceSpeed toggle false
 Ignite Lighter true
