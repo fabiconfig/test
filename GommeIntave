@@ -513,8 +513,8 @@ ReverseStep toggle false
 SafeWalk AirSafe true
 SafeWalk toggle false
 Scaffold Mode Normal
-Scaffold MaxDelay 80
-Scaffold MinDelay 40
+Scaffold MaxDelay 100
+Scaffold MinDelay 100
 Scaffold PlaceableDelay false
 Scaffold AutoBlock false
 Scaffold StayAutoBlock false
