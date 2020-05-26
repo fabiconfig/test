@@ -156,8 +156,8 @@ CubeFastUse ConstantPackets 2
 CubeFastUse PacketsAtOnce 24
 CubeFastUse Reset false
 CubeFloat Mode stable
-CubeFloat MovementDistance 2.25
-CubeFloat AdditionalDistance 0.25
+CubeFloat MovementDistance 2.22
+CubeFloat AdditionalDistance 0.21
 CubeFloat MovementTimer 0.31
 CubeFloat AdditionalTimer 0.31
 CubeFloat WaitTicks 7
@@ -281,7 +281,7 @@ Kick Mode Quit
 KillAura MaxCPS 13
 KillAura MinCPS 13
 KillAura HurtTime 10
-KillAura Range 5.40
+KillAura Range 5.36
 KillAura ThroughWallsRange 2.6
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -291,7 +291,7 @@ KillAura KeepSprint true
 KillAura AutoBlock false
 KillAura InteractAutoBlock true
 KillAura DelayedBlock false
-KillAura BlockRate 70
+KillAura BlockRate 60
 KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
