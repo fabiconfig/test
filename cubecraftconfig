@@ -128,7 +128,7 @@ CubeAutoBlock AnimationVariation -0.25
 CubeAutoBlock Reset false
 CubeClipper §4§lSettings 
 CubeClipper Indicate
-CubeClipper MaxUpDistance 5
+CubeClipper MaxUpDistance 2
 CubeClipper MaxDownDistance 10
 CubeClipper Reset false
 CubeCombat §4§lSettings: 
@@ -156,7 +156,7 @@ CubeFastUse ConstantPackets 2
 CubeFastUse PacketsAtOnce 24
 CubeFastUse Reset false
 CubeFloat Mode stable
-CubeFloat MovementDistance 2.18
+CubeFloat MovementDistance 2.24
 CubeFloat AdditionalDistance 0.20
 CubeFloat MovementTimer 0.31
 CubeFloat AdditionalTimer 0.31
@@ -534,6 +534,6 @@ Regen toggle false
 
 chat &r
 chat &r&4made by fabi#8042 (discord)
-chat &r&3Updated on 26.5.2020
+chat &r&3Updated & tested on 03.06.2020
 chat &r&3Supporting: &4CubeCore 8.312
 chat &r
