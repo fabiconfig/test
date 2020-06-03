@@ -485,7 +485,6 @@ CubeNoFall toggle true
 BufferSpeed toggle true
 AntiBot toggle true
 FastUse toggle true
-ChestAura toggle true
 
 #ToggleOff
 FastBreak toggle false
@@ -505,6 +504,7 @@ SlimeJump toggle false
 NoFall toggle false
 BugUp toggle false
 Criticals toggle false
+ChestAura toggle false
 
 chat &r
 chat &r&4made by fabi#8042 (discord) &3Updated: 12.5.2020
