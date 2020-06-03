@@ -108,13 +108,13 @@ BowAimbot PredictSize 2.0
 BowAimbot Priority Direction
 BowAimbot Mark true
 BufferSpeed SpeedLimit true
-BufferSpeed MaxSpeed 2.0
+BufferSpeed MaxSpeed 1.8
 BufferSpeed Buffer true
 BufferSpeed Stairs true
-BufferSpeed StairsBoost 1.69
+BufferSpeed StairsBoost 1.60
 BufferSpeed StairsMode Old
 BufferSpeed Slabs true
-BufferSpeed SlabsBoost 1.64
+BufferSpeed SlabsBoost 1.60
 BufferSpeed SlabsMode Old
 BufferSpeed Ice false
 BufferSpeed IceBoost 1.342
@@ -505,8 +505,12 @@ NoFall toggle false
 BugUp toggle false
 Criticals toggle false
 ChestAura toggle false
+CubeFloat toggle false
+CubeCombat toggle false
+CubeFastUse toggle false
+CubeFastLadder toggle false
 
 chat &r
-chat &r&4made by fabi#8042 (discord) &3Updated: 12.5.2020
+chat &r&4made by fabi#8042 (discord) &3Updated: 03.06.2020
 chat &rUse TPHit Script & CubeCore (for Water NoFall)
 chat &r
